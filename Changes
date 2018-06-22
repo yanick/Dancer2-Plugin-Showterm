@@ -6,6 +6,7 @@ Revision history for Dancer2-Plugin-Showterm
   [ BUG FIXES ]
 
   [ DOCUMENTATION ]
+  - Fixed minor typo. (Mohammad S Anwar, GH#1)
 
   [ ENHANCEMENTS ]
 

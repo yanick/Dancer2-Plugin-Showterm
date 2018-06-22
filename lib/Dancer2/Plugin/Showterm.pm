@@ -47,7 +47,7 @@ The plugin assumes that the captured screen is 80 columns by 24 rows.
     $ mv typescript /path/to/dancer/app/public/myscreen.typescript
 
 
-Note that the c<typescript> file the plugin uses is the concatenation of the
+Note that the C<typescript> file the plugin uses is the concatenation of the
 original produced typescript with its timing file, separated with a type dash 
 on a single line.
 
