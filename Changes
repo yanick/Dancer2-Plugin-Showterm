@@ -4,6 +4,8 @@ Revision history for Dancer2-Plugin-Showterm
   [ API CHANGES ]
 
   [ BUG FIXES ]
+  - I forgot to put the shared files in the distro. (GH#2)
+  - regex for path had typo. (tinita)
 
   [ DOCUMENTATION ]
   - Fixed minor typo. (Mohammad S Anwar, GH#1)

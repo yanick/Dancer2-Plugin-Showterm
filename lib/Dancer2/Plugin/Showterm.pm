@@ -126,7 +126,7 @@ sub BUILD {
 
     $self->app->add_route(
         method => 'get',
-        regexp => qr/.*\.showterm\//,
+        regexp => qr/.*\.showterm/,
         code => sub {
             my $app = shift;
             ( my $file = $app->request->path ) =~ s/\.showterm$/\.typescript/;
