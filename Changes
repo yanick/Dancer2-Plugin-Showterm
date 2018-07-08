@@ -6,6 +6,7 @@ Revision history for Dancer2-Plugin-Showterm
   [ BUG FIXES ]
 
   [ DOCUMENTATION ]
+  - Fixed POD typo. (GH#3, Mohammad S Anwar)
 
   [ ENHANCEMENTS ]
 

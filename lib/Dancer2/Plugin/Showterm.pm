@@ -37,7 +37,7 @@ pages via iframes:
     
 =head1 CAPTURING THE ACTION
 
-The cli capture is done using the UNIX utility c<script>. 
+The cli capture is done using the UNIX utility C<script>. 
 The plugin assumes that the captured screen is 80 columns by 24 rows.
 
     $ script -ttiming
