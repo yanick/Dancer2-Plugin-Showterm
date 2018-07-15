@@ -7,6 +7,7 @@ Revision history for Dancer2-Plugin-Showterm
 
   [ DOCUMENTATION ]
   - Fixed POD typo. (GH#3, Mohammad S Anwar)
+  - Mention asciinema, an alternate way to embed cli movies.
 
   [ ENHANCEMENTS ]
 
