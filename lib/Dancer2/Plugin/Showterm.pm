@@ -89,6 +89,13 @@ If provided, will be added to the showterm page.
 
 =item L<http://showterm.io> - the original service
 
+=item L<asciinema|https://asciinema.org/>
+
+Alternative solution. Arguably simpler to embed (see
+L<https://asciinema.org/docs/embedding>) as the project 
+provides the required C<css> and C<js> files -- which mean it 
+doesn't require any extra Dancer plugin like this one.
+
 =back
 
 =cut
